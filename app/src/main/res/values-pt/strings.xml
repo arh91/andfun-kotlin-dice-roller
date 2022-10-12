@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lançamento de dados</string>
+    <string name="roll">Lançar</string>
+    <string name="tirar">Jogando</string>
+    <string name="otro">Outro</string>
+    <string name="idioma">Mudar idioma</string>
+</resources>

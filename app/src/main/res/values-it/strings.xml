@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Dice Roller</string>
+    <string name="app_name">Lancio di dadi</string>
     <string name="roll">Lanciari i dadi</string>
     <string name="tirar">Lanciando i dadi</string>
     <string name="otro">Altro</string>
+    <string name="idioma">Cambia lingua</string>
 </resources>

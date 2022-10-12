@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Dit Roller</string>
+    <string name="app_name">Lancer de dés</string>
     <string name="roll">Lancer un dé</string>
     <string name="tirar">En lanÇant des dés</string>
     <string name="otro">Autre</string>
+    <string name="idioma">Changer la langue</string>
 </resources>

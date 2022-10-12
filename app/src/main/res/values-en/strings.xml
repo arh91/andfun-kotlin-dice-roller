@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Say Roller</string>
+    <string name="app_name">Dice Roller</string>
     <string name="roll">Roll the dice</string>
     <string name="tirar">Rolling the dice</string>
     <string name="otro">Other</string>
+    <string name="idioma">Change language</string>
 </resources>

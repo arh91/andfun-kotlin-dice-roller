@@ -16,6 +16,7 @@
 
 package com.example.android.diceroller
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
@@ -35,7 +36,18 @@ class MainActivity : AppCompatActivity() {
             rollDice()
         }
 
+        val languageButton: Button = findViewById(R.id.btn_language)
+        languageButton.setOnClickListener {
+            chooseLanguage()
+        }
+
         diceImage = findViewById(R.id.dice_image)
+    }
+
+    private fun chooseLanguage() {
+        val intent = Intent(Intent.ACTION_MAIN);
+        intent.setClassName("com.android.settings", "com.android.settings.LanguageSettings");
+        startActivity(intent);
     }
 
     private fun rollDice() {

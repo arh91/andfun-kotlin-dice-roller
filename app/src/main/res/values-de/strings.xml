@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Würfel werfen</string>
+    <string name="roll">Werfen</string>
+    <string name="tirar">die Würfel rollen</string>
+    <string name="otro">Anderes</string>
+    <string name="idioma">Sprache ändern</string>
+</resources>
